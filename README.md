@@ -11,7 +11,7 @@ PlayerData
 ├─ Inventory = {}   … Items owned by the player (pertains to inventory modules)
 ├─ Progress = {}    … Rebirth count, achievements, etc. (pertains to progression modules)
 └─ Settings = {}    … Player preferences (e.g., music, trade requests)
-​```
+```
 
 > Session-only state and derived/computed values are intentionally
 > NOT part of PlayerData and are never saved.
