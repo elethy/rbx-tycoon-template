@@ -3,7 +3,7 @@ A base project for creating a Tycoon in Roblox.
 
 ## PlayerData (Data to be saved)
 
-​```
+```text
 PlayerData
 ├─ Version          … Structure version; a safeguard for future structural changes
 ├─ Resources = {}   … Dictionary with a variable number of entries (e.g., Gold, Gems) (pertains to resource modules)
